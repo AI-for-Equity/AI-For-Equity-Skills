@@ -21,6 +21,11 @@ Analyze faculty and staff survey data, identify key findings and themes, assess 
 
 [View the Faculty Survey Analysis skill](skills/faculty-survey-analysis/SKILL.md)
 
+### Family Survey Analysis
+Analyze family and caregiver survey data, identify key findings and themes, assess the strength of the evidence, surface implications for trust, enrollment, retention, and communications, and produce an executive-ready memo with recommended actions.
+
+[View the Family Survey Analysis skill](skills/family-survey-analysis/SKILL.md)
+
 ## About
 
 This is a public library maintained by AI for Equity. Skills may be adapted, improved, and expanded over time as we learn from educators and school systems using them.
