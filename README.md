@@ -33,6 +33,13 @@ The skill emphasizes warmth and plain language for families, concise and collegi
 
 [View the Organizational Communications skill](skills/organizational-communications/SKILL.md)
 
+### Student Work Analysis
+Analyze a representative set of K–12 student work to identify demonstrated understanding, recurring patterns, likely root misunderstandings, task-design issues, and targeted instructional next steps.
+
+The skill emphasizes evidence-based interpretation, flexible instructional grouping, and clear guardrails against inferring student ability, motivation, disability, or other traits from limited work samples.
+
+[View the Student Work Analysis skill](skills/student-work-analysis/SKILL.md)
+
 ## About
 
 This is a public library maintained by AI for Equity. Skills may be adapted, improved, and expanded over time as we learn from educators and school systems using them.
