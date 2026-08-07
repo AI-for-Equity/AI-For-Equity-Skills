@@ -1,371 +1,454 @@
-Organizational Communications
+---
+name: organizational-communications
+description: Draft, revise, and edit communications so they reflect an organization's authentic voice rather than generic AI writing. Use for communications to families, faculty and staff, funders and partners, or other organizational audiences. Adapt the organization's core voice to the audience, prioritize concision and specificity, use examples and evidence instead of generic claims, preserve the author's voice when revising existing drafts, and remove common AI-writing patterns.
+---
 
-Draft or revise communications in an organization's authentic voice, adapting the register to the audience while preserving clarity, specificity, warmth, and concision.
+# Organizational Communications
 
-Core Workflow
+Draft or revise communications so they sound like the organization and are appropriate for the intended audience.
 
-Identify the communication's audience, purpose, required facts, and desired action.
+Prioritize:
 
-Use an existing organization voice profile when one is available.
+- authentic organizational voice
+- audience awareness
+- warmth where appropriate
+- clarity
+- concision
+- specificity
+- evidence and examples
+- natural human writing
 
-If no voice profile exists and representative writing samples are available, infer a voice profile before drafting.
+Avoid generic, inflated, or recognizably AI-generated language.
 
-Apply the core organizational voice plus the appropriate audience register.
+## Start With the Communication Context
 
-Draft or revise the communication.
+Determine:
 
-Run the anti-AI-slop review before returning the final copy.
+1. Who is the audience?
+2. What does the audience need to know?
+3. What should they understand, feel, or do after reading?
+4. What information, evidence, examples, dates, or actions must be included?
+5. Is there an existing draft to preserve and improve?
 
-Return the finished communication, not a long explanation of the process, unless the user asks for analysis or rationale.
+Infer these from the request when they are obvious.
 
-Do not ask questions when the answer is already obvious from the request. Ask only when missing information would materially change the communication, such as an ambiguous audience, unclear call to action, or missing factual details.
+Do not ask unnecessary questions.
 
-Inputs
+If the audience is materially ambiguous and would change the communication, ask who the communication is for.
 
-Accept any combination of:
+## Use the Organization's Voice
 
-a draft to revise
+If an organizational voice profile, style guide, or representative writing samples are available, use them as the primary evidence for how the organization communicates.
 
-notes, bullets, or source material to turn into a communication
+Do not replace an organization's established voice with a generic idea of what "professional" writing should sound like.
 
-a communication goal or brief
+Pay attention to recurring patterns such as:
 
-an existing organization voice profile
+- level of formality
+- warmth
+- directness
+- vocabulary
+- sentence length and rhythm
+- use of "we," "you," and other forms of address
+- how the organization explains decisions
+- how it makes requests
+- how it discusses challenges
+- how it talks about students, families, educators, and communities
+- phrases it commonly uses
+- phrases or styles it avoids
 
-a style or brand guide
+### If No Voice Profile Exists
 
-representative communications from the organization
+If representative communications are available, infer a voice profile from them.
 
-examples the user considers especially on-voice or off-voice
+Look for what stays consistent across audiences and what changes depending on the audience.
 
-No connector is required. Work from material the user pastes or uploads.
+When helpful, summarize the resulting profile as:
 
-Learn the Organization's Voice
+### Core Organizational Voice
 
-Treat organizational voice as evidence-based, not as a collection of generic adjectives.
+Describe the characteristics that should remain consistent across communications.
 
-When representative examples are available, infer recurring patterns such as:
+### Audience Registers
 
-level of warmth and formality
+Describe how the voice changes for different audiences.
 
-directness
+### Characteristic Language
 
-sentence length and rhythm
+Identify recurring language or constructions that sound authentically like the organization.
 
-preferred vocabulary
+### Avoid
 
-use of first person, second person, and organizational "we"
+Identify language, habits, or tones that would feel inconsistent with the organization's voice.
 
-how the organization explains decisions
+Do not require a voice-profile exercise before completing a straightforward communication.
 
-how it frames requests and calls to action
+If no examples or voice profile are available, produce a clear, natural draft based on the available context and avoid inventing distinctive organizational characteristics.
 
-how it talks about students, families, staff, partners, and community
+## Distinguish by Audience
 
-how much context it gives before logistics
+Apply the organization's core voice differently depending on its relationship with the audience.
 
-use of humor, emotion, urgency, or restraint
+Common audiences include:
 
-characteristic phrases or constructions
+- families and caregivers
+- faculty and staff
+- funders and partners
+- students
+- board members
+- community members
+- prospective employees
+- policymakers or other external stakeholders
 
-words, tones, and constructions it avoids
+Use the audience guidance below when applicable.
 
-Distinguish between:
+## Families and Caregivers
 
-Core Organizational Voice
+Lean strongly into warmth, clarity, accessibility, and brevity.
 
-Identify qualities that persist across audiences.
+Families are unlikely to spend substantial time reading routine organizational communications.
 
-Audience Registers
+### Priorities
 
-Identify ways the same core voice changes depending on the relationship with the audience.
+- Put the most important information early.
+- Make the purpose of the communication clear quickly.
+- Use warm, relational language without manufactured enthusiasm.
+- Make actions, deadlines, dates, and logistics unmistakable.
+- Use short paragraphs.
+- Prefer ordinary language over institutional language.
+- Explain why something matters when that context is useful.
+- Use examples when they make an abstract idea concrete.
+- Make the communication easy to scan without turning everything into bullets.
 
-If the examples do not support a claim about the organization's voice, do not invent one.
+### Avoid Educational Jargon
 
-Create a Reusable Voice Profile
+Do not assume families know education-sector terminology.
 
-When the user asks to establish or document organizational voice, produce a compact reusable profile with this structure:
+Replace terms such as:
 
-Organization Voice Profile
+- instructional rigor
+- MTSS
+- Tier 1 instruction
+- formative assessment
+- scope and sequence
+- instructional framework
+- standards alignment
+- pedagogical practice
 
-Core Voice
+with plain-language explanations unless the term itself is necessary.
 
-Describe the stable qualities of the organization's writing.
+If a necessary acronym or specialized term appears, explain it.
 
-Writing Patterns
+Never use jargon as a shortcut for explaining what something actually means for students or families.
 
-Document recurring sentence, vocabulary, structure, directness, and tone patterns.
+### Warmth
 
-Characteristic Language
+Family communication should generally feel more relational than institutional.
 
-List phrases or constructions that are genuinely supported by examples.
+Use warmth through:
 
-Avoid
+- clarity
+- respect
+- acknowledgment
+- useful context
+- genuine appreciation
+- attention to the family's experience
 
-List language, tones, habits, and constructions that do not fit the organization's voice.
+Do not manufacture warmth with excessive exclamation points, effusive adjectives, or generic expressions of excitement.
 
-Audience Registers
+## Faculty and Staff
 
-Document only audiences supported by examples or explicit user guidance.
+Use a warm, collegial, direct, and concise register.
 
-Possible audiences include:
+Assume faculty and staff have professional knowledge of the organization and education.
 
-families and caregivers
+### Priorities
 
-faculty and staff
+- State the purpose early.
+- Give enough context to understand why a decision or request matters.
+- Respect the audience's time.
+- Be candid about challenges, constraints, and tradeoffs when relevant.
+- Make requests, decisions, ownership, and next steps clear.
+- Use concrete examples or evidence instead of vague claims.
+- Preserve nuance when the situation is complicated.
 
-funders and partners
+Educational terminology may be used when it is likely to be familiar and useful to the audience.
 
-students
+Do not use jargon simply to make the communication sound sophisticated.
 
-board members
+Avoid manufactured cheerfulness when the subject is difficult, burdensome, or uncertain.
 
-policymakers
+## Funders and Partners
 
-community members
+Use a concise, substantive, evidence-oriented register.
 
-prospective employees
+A somewhat more technical or specialized vocabulary is appropriate when it improves precision.
 
-Do not assume every organization has the same audiences.
+### Priorities
 
-Audience Routing
+- Connect activities to strategy, outcomes, or learning.
+- Use concrete examples and evidence.
+- Quantify claims when reliable data is available.
+- Distinguish between what has happened, what appears promising, and what is still a hypothesis.
+- Show why the work matters without inflating its significance.
+- Make the organization's reasoning visible.
+- Use field-specific language when it genuinely adds precision.
 
-Infer the audience when it is obvious. Ask only when it is materially ambiguous.
+Clearly distinguish among:
 
-Apply the organization's core voice first, then adjust the register using the guidance below.
+- activities
+- outputs
+- outcomes
+- evidence
+- interpretation
+- aspiration
 
-Families and Caregivers
+Do not convert aspiration into demonstrated impact.
 
-Lean strongly into warmth, humanity, clarity, and respect.
+Avoid nonprofit, education, philanthropic, or business jargon when simpler language would communicate the idea more clearly.
 
-Write for busy readers who may spend little time with the message.
+## Prefer Evidence and Examples to Generic Claims
 
-Make the essential point easy to understand quickly.
+Replace vague positive claims with specific evidence whenever possible.
 
-Put the most important information early.
+Avoid:
 
-Use plain language.
+> Our community is deeply committed to student success.
 
-Avoid educational jargon, acronyms, internal terminology, and bureaucratic language.
+Prefer something concrete such as:
 
-If a technical term is unavoidable, explain it immediately in everyday language.
+> This year, teachers added weekly small-group reading blocks after fall assessment data showed that many students needed additional practice with decoding.
 
-Prefer concrete examples and evidence over generic assurances.
+Avoid:
 
-Make dates, deadlines, actions, and next steps unmistakable.
+> The initiative has had a meaningful impact.
 
-Treat families as partners, not customers or passive recipients.
+Prefer:
 
-Do not sound condescending, defensive, institutional, or artificially cheerful.
+> Attendance increased from 88% to 93% among students participating in the program.
 
-Use warmth without padding the message with pleasantries.
+If evidence is unavailable, do not invent it.
 
-Keep the communication as short as the purpose allows.
+Either make a narrower claim or identify the statement as an aspiration, belief, or goal.
 
-Faculty and Staff
+## Preserve Human Voice When Revising
 
-Be warm, collegial, direct, and concise.
+When the user provides an existing draft, treat the draft as evidence about the author's voice.
 
-Assume professional knowledge.
+Do not unnecessarily rewrite the entire communication.
 
-Use educational terms that the intended faculty or staff audience would reasonably know.
+Make the minimum changes needed to improve:
 
-Avoid unnecessary explanation of familiar concepts.
+- clarity
+- concision
+- organization
+- audience fit
+- tone
+- specificity
+- grammar
+- readability
 
-Explain the rationale behind decisions when it matters.
+Preserve distinctive wording, rhythm, humor, directness, or personality when it works.
 
-Name tradeoffs, challenges, or uncertainty directly rather than hiding them behind polished language.
+Do not turn a naturally written draft into generic polished prose.
 
-Prefer evidence and examples over generic claims.
+## Remove AI Slop
 
-Make ownership, actions, deadlines, and decisions clear.
+Before returning a communication, conduct an editing pass specifically for generic AI-writing patterns.
 
-Avoid manufactured enthusiasm and corporate management language.
+### Remove Empty Throat-Clearing
 
-Respect the reader's time; do not turn a simple update into a memo.
+Avoid openings that delay the actual point.
 
-Funders and Partners
+Examples include:
 
-Be concise, substantive, evidence-oriented, and appropriately sophisticated.
+- "In today's rapidly changing educational landscape..."
+- "As we continue on this journey..."
+- "It is important to note that..."
+- "We wanted to take a moment to..."
 
-Use field-specific terminology when it adds precision and the intended audience is likely to understand it.
+Start with the information the reader actually needs.
 
-Connect activities to strategy, evidence, outcomes, and implications.
+### Avoid Generic Enthusiasm
 
-Use concrete examples, data, and evidence rather than broad claims of impact.
+Be cautious with language such as:
 
-Distinguish outputs, outcomes, hypotheses, and demonstrated results.
+- thrilled
+- delighted
+- incredibly excited
+- exciting journey
+- amazing opportunity
+- transformative
+- groundbreaking
+- deeply committed
 
-Be confident without overstating certainty or impact.
+Use these only when the organization's established voice genuinely supports them and the context warrants them.
 
-Surface limitations, tradeoffs, or unanswered questions when relevant.
+Do not use enthusiasm as a substitute for substance.
 
-Avoid nonprofit, philanthropic, and education-sector buzzwords when a more precise phrase would do.
+### Avoid Inflated Significance
 
-Do not make the writing more abstract merely to sound sophisticated.
+Do not make ordinary developments sound historic, transformative, or profound.
 
-Evidence Before Generalities
+Match the intensity of the language to the significance of the actual event.
 
-Prefer specifics that let the reader understand why a claim is true.
+### Avoid Corporate and Institutional Jargon
 
-Replace generic statements such as:
+Be suspicious of words and phrases such as:
 
-"We are deeply committed to student success."
+- leverage
+- robust
+- synergize
+- optimize
+- stakeholder engagement
+- strategic alignment
+- thought partnership
+- best-in-class
+- drive impact
+- meaningful impact
+- moving forward
+- at scale
 
-"Our community continues to demonstrate incredible resilience."
+Use specialized terminology when it conveys a specific necessary meaning, not because it sounds professional.
 
-"This initiative has had a meaningful impact."
+### Avoid Canned Transitions
 
-with concrete evidence, examples, observed changes, decisions, or actions whenever that information is available.
+Do not overuse constructions such as:
 
-If evidence is not available, make the claim narrower rather than manufacturing support.
+- "That said..."
+- "With that in mind..."
+- "At the same time..."
+- "It's worth noting..."
+- "Ultimately..."
+- "Moving forward..."
 
-Preserve Human Voice When Revising
+Use transitions only when they help the reader follow the argument.
 
-When the user supplies a draft:
+### Avoid Repetitive Sets of Three
 
-Preserve the author's phrasing and rhythm when they already work.
+AI writing often creates unnecessary three-part lists or sequences for rhetorical effect.
 
-Make the minimum edits necessary for clarity, audience, purpose, accuracy, and voice.
+Do not automatically turn every idea into:
 
-Do not rewrite merely to make the prose sound more polished.
+> clarity, connection, and community
 
-Do not replace distinctive human language with generic professional language.
+or:
 
-Keep intentional informality, humor, directness, or personality unless it conflicts with the audience or purpose.
+> learn, grow, and thrive
 
-Anti-AI-Slop Review
+Use the number of examples or concepts the content actually requires.
 
-Before returning a draft, remove patterns that make the writing feel generic, inflated, synthetic, or interchangeable with any organization.
+### Avoid Fake Warmth
 
-Remove empty throat-clearing
+Do not add emotional language merely to make a communication appear human.
 
-Cut openings and transitions that delay the point without adding meaning.
+Warmth should come from attention to the reader, not decorative adjectives.
 
-Avoid defaulting to phrases such as:
+### Avoid Generic Inspirational Conclusions
 
-"I hope this message finds you well."
+Do not end routine communications with broad statements about journeys, shared missions, brighter futures, collective commitment, or inspiration unless the context genuinely calls for it.
 
-"We wanted to take a moment to..."
+End with the most useful closing for the audience:
 
-"As we continue on this journey..."
+- the next step
+- appreciation
+- a deadline
+- an invitation to respond
+- contact information
+- a simple closing sentence
 
-"In today's rapidly changing environment..."
+### Limit Excessive Formatting
 
-Use them only when they authentically match the organization's established voice and serve a purpose.
+Do not default to:
 
-Remove generic enthusiasm
+- many headings
+- stacked one-sentence paragraphs
+- excessive bullet lists
+- bolding every important phrase
+- excessive em dashes
+- decorative labels
 
-Avoid automatic phrases such as:
+Use formatting only when it improves comprehension.
 
-"We are thrilled to..."
+## Apply the Information-Density Test
 
-"We are excited to announce..."
+Review every sentence.
 
-"This exciting opportunity..."
+If a sentence sounds polished but communicates little information:
 
-"We are incredibly proud..."
+1. make it more concrete, or
+2. remove it.
 
-Use enthusiasm only when warranted and consistent with the organization's voice.
+Prefer information over decoration.
 
-Remove inflated significance
+## Apply the Interchangeability Test
 
-Do not make ordinary updates sound transformational, historic, groundbreaking, or deeply meaningful without evidence.
+Ask:
 
-Remove vague superlatives
+> Could this exact sentence appear in a communication from almost any school, district, nonprofit, or company?
 
-Replace words such as "incredible," "remarkable," "robust," "powerful," "transformative," and "meaningful" with specifics when possible.
+If yes, consider replacing it with something specific to:
 
-Remove corporate and sector jargon
+- this organization
+- this audience
+- this situation
+- this evidence
+- this decision
+- this community
 
-Avoid terms such as "leverage," "synergy," "stakeholder engagement," "best-in-class," "innovative solutions," and similar abstractions when plain language is clearer.
+If nothing specific needs to be said, remove the sentence.
 
-For funder or specialist audiences, keep technical terms that add real precision; remove jargon that merely signals sophistication.
+## Prioritize Concision
 
-Avoid repetitive rhetorical patterns
+Do not equate completeness with length.
 
-Do not overuse:
+Keep only the information the audience needs.
 
-lists of exactly three ideas for rhetorical effect
+For every draft:
 
-repeated "not only X, but Y" constructions
+- remove repetition
+- shorten long introductions
+- eliminate obvious context
+- remove unnecessary qualifiers
+- combine sentences that repeat the same idea
+- favor concrete nouns and verbs
+- avoid explaining simple points multiple ways
 
-repeated contrasts such as "It's not about X; it's about Y"
+Apply the strongest concision standard to family communications.
 
-strings of short dramatic fragments
+Faculty and staff communications may include additional rationale when it helps people understand or implement a decision.
 
-excessive em dashes
+Funder and partner communications may include additional evidence and context when required for understanding, accountability, or decision-making.
 
-repeated sentence structures
+## Make Actions Clear
 
-excessive headings or bullets for material that reads better as prose
+When the audience needs to do something, make clear:
 
-Vary structure naturally.
+- what they need to do
+- who needs to do it
+- when it needs to happen
+- where or how to do it
+- whom to contact with questions
 
-Remove canned transitions and conclusions
+Do not bury actions in explanatory prose.
 
-Avoid generic transitions such as "Furthermore," "Moreover," and "Ultimately" when a simpler connection works.
+## Final Review
 
-Do not end automatically with an inspirational restatement of the message. End with the next step, the important implication, a genuine expression of thanks, or simply stop when the communication is complete.
+Before returning the communication, verify:
 
-Remove repetition disguised as emphasis
+- The audience is clear.
+- The audience register is appropriate.
+- The communication reflects available evidence about the organization's voice.
+- The most important information appears early.
+- The writing is concise.
+- Claims are supported by evidence or examples when available.
+- Specialized language is appropriate for the audience.
+- Family communications contain no unnecessary educational jargon.
+- The tone is warm where appropriate without sounding performative.
+- Existing human voice has been preserved when revising.
+- Generic AI phrases and structures have been removed.
+- No sentence is included merely because it sounds polished.
+- Actions and deadlines are clear.
+- The communication could not easily be mistaken for generic organizational boilerplate.
 
-Do not state the same point in the opening, body, and conclusion using slightly different words unless the communication genuinely requires repetition.
-
-Avoid fake warmth
-
-Warmth should come from consideration for the reader, specificity, gratitude, honesty, and respect—not from extra adjectives, exclamation points, or sentimental language.
-
-Avoid unearned certainty
-
-Do not turn plans into guarantees, early signals into conclusions, or aspirations into accomplishments.
-
-Apply the information-density test
-
-For each sentence, ask whether it contributes information, context, evidence, tone, relationship, or a necessary transition.
-
-If a sentence sounds polished but conveys little information, make it concrete or remove it.
-
-Apply the interchangeability test
-
-Ask whether the sentence could appear unchanged in a communication from almost any school, district, nonprofit, or company.
-
-If yes, replace it with something specific to the actual organization, situation, evidence, or audience—or remove it.
-
-Concision
-
-Default to concise communication.
-
-Put the point before background when possible.
-
-Use the shortest version that preserves necessary context and warmth.
-
-Cut repeated context, redundant summaries, and unnecessary setup.
-
-Prefer one strong example over several weak examples.
-
-Use bullets when they genuinely improve scanning, especially for dates, actions, or logistics.
-
-Do not use bullets merely to make prose look organized.
-
-For family communications, apply the strongest concision standard.
-
-Accuracy and Integrity
-
-Do not invent facts, evidence, quotes, outcomes, dates, commitments, or organizational positions.
-
-Do not strengthen claims beyond the source material.
-
-Preserve important caveats.
-
-Flag missing information that prevents an accurate communication.
-
-Do not use examples from supplied organizational writing as factual content for a new communication unless they are relevant to the current request.
-
-Output
-
-By default, return the polished communication ready to use.
-
-When appropriate, also include a concise subject line, headline, or title.
-
-Do not append an explanation of the voice analysis, anti-slop edits, or writing choices unless the user asks for them.
+Return the finished communication without explaining all of the edits unless the user asks for commentary or alternatives.
