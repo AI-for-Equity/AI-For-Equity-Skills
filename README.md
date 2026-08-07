@@ -26,6 +26,13 @@ Analyze family and caregiver survey data, identify key findings and themes, asse
 
 [View the Family Survey Analysis skill](skills/family-survey-analysis/SKILL.md)
 
+### Organizational Communications
+Draft or revise communications so they reflect an organization's authentic voice, adapt appropriately for families, faculty/staff, funders/partners, and other audiences, and avoid generic AI-sounding language.
+
+The skill emphasizes warmth and plain language for families, concise and collegial communication for faculty and staff, evidence-oriented writing for funders and partners, and a final editing pass for specificity, concision, and common AI-writing patterns.
+
+[View the Organizational Communications skill](skills/organizational-communications/SKILL.md)
+
 ## About
 
 This is a public library maintained by AI for Equity. Skills may be adapted, improved, and expanded over time as we learn from educators and school systems using them.
