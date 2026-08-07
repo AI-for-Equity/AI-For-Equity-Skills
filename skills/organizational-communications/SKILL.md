@@ -57,13 +57,30 @@ Pay attention to recurring patterns such as:
 - phrases it commonly uses
 - phrases or styles it avoids
 
-### If No Voice Profile Exists
+### Determine What Voice Evidence Is Available
 
-If representative communications are available, infer a voice profile from them.
+Before drafting, determine what evidence is available about the organization's voice.
 
-Look for what stays consistent across audiences and what changes depending on the audience.
+Use this order of preference:
 
-When helpful, summarize the resulting profile as:
+1. An explicit organizational voice profile or style guide
+2. Representative communications available in the current context or project
+3. Reliable context from prior work with the organization, when the AI environment provides access to it
+4. Writing supplied in the current request
+5. General audience guidance in this Skill
+
+Do not ask the user to provide writing samples if sufficient evidence about the organization's voice is already available.
+
+If prior context provides enough evidence to recognize recurring patterns in the organization's writing, use those patterns.
+
+Do not assume that general knowledge about the organization is the same as knowledge of its writing voice.
+
+If there is not enough evidence to reproduce the organization's voice confidently, tell the user briefly and offer two options:
+
+- provide 2–5 representative communications or a voice/style guide, or
+- proceed now using the audience guidance in this Skill without claiming to reproduce the organization's distinctive voice
+
+Do not make a lengthy voice-profile exercise a prerequisite for completing the communication.
 
 ### Core Organizational Voice
 
