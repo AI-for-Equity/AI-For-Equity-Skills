@@ -1,13 +1,13 @@
 ---
 name: ai-communication-plan
-description: Build an adaptive, proactive AI communication plan for a school system. Use when education leaders need to articulate a mission-aligned AI vision, communicate responsibly with faculty and families, map existing communication channels, use AI Innovation Index Staff and Family Pulse surveys, and produce a practical plan or PDF-ready artifact.
+description: Build an adaptive, proactive AI communication plan for a school system. Use when education leaders need to articulate a mission-aligned AI vision, build faculty and family investment in that vision, map existing communication channels, and create a practical plan or PDF-ready artifact.
 ---
 
 # AI Communication Plan
 
 ## Purpose
 
-Facilitate a focused planning conversation for a school system using AI. Meet the team where it is: validate and refine work that exists; co-create only what is missing. Build toward a concise, owned communication plan rather than a long generic guide.
+Facilitate a focused planning conversation for a school system using AI. Build investment in a shared AI vision through proactive, two-way communication: begin with faculty, then move to families. Meet the team where it is—validate and refine work that exists; co-create only what is missing—and build toward a concise, owned plan rather than a long generic guide.
 
 ## Facilitation rules
 
@@ -34,7 +34,9 @@ Then establish a shared student promise that can connect faculty and family comm
 
 Record the final North Star and student promise.
 
-## 2. Map faculty communication
+## 2. Build faculty investment through communication
+
+Explain the purpose of this step: use faculty communication to build understanding, confidence, and investment in the AI vision—not merely to announce AI activity. Start with faculty before moving to families because educators need clarity, support, and visible examples of responsible practice to make the vision real.
 
 Ask the team to list recurring faculty channels. Offer these prompts without treating them as exhaustive:
 
@@ -45,7 +47,7 @@ Ask the team to list recurring faculty channels. Offer these prompts without tre
 - Staff, leadership, or principal meetings
 - Internal website, intranet, chat, or resource hub
 
-For each channel, ask: **“Do you have a concrete plan for communicating the AI vision or showing responsible AI practice here?”**
+For each channel, ask: **“Do you have a concrete plan for using this channel to build investment in the AI vision or show responsible AI practice?”**
 
 If yes, request the plan and give concise feedback on its connection to the North Star, the student promise, and its repeatability. If no, help create one sustainable move. Examples:
 
@@ -56,9 +58,14 @@ If yes, request the plan and give concise feedback on its connection to the Nort
 | Newsletter | Include a brief strategy update, useful resource, or educator story. |
 | Staff meeting | Reserve a short recurring moment for an AI win, question, practice, or shared learning. |
 
-Ask how the team will use the **AI Innovation Index Staff Pulse survey** to understand staff confidence, needs, concerns, and priorities. Record what it needs to learn, when it will run, who will review results, what will change, and how staff will hear back.
+Ask: **“Do you plan to administer the AI Innovation Index Faculty Pulse surveys during their fall and spring windows?”**
 
-## 3. Map family communication
+- If yes, ask how the team will use the results to understand staff confidence, needs, concerns, and priorities, and how it will close the loop with staff.
+- If no, offer a brief, neutral reminder that the surveys can provide structured staff feedback during those windows, then continue. Do not pressure the team or make this an AI Innovation Index sales conversation.
+
+## 3. Build family investment through communication
+
+Explain the purpose of this step: use family communication to build understanding and trust in the same AI vision, while creating appropriate opportunities for families to ask questions and shape implementation.
 
 Ask the team to list recurring family channels. Offer these prompts:
 
@@ -68,9 +75,9 @@ Ask the team to list recurring family channels. Offer these prompts:
 - Family-facing social media or messaging platforms
 - Back-to-school nights, curriculum nights, and family conferences
 - Existing community meetings or parent advisory groups
-- AI Innovation Index Family Pulse survey
+- AI Innovation Index Family Pulse surveys
 
-For each channel, ask: **“Do you have a concrete plan for communicating the AI vision, demonstrating responsible practice, or inviting family input?”**
+For each channel, ask: **“Do you have a concrete plan for using this channel to build investment in the AI vision, demonstrate responsible practice, or invite family input?”**
 
 If a plan exists, test for clarity, transparency, a connection to student AI fluency, and responsiveness to family questions. If not, help select one low-lift role. Examples:
 
@@ -81,11 +88,14 @@ If a plan exists, test for clarity, transparency, a connection to student AI flu
 | Existing family event | Offer an optional AI breakout or discussion table rather than requiring a standalone town hall. |
 | Parent advisory group | Test messages and hear what families want to understand. |
 
-Ask how the team will use the **AI Innovation Index Family Pulse survey** to understand family perceptions, questions, confidence, and priorities. Record what it needs to learn, when it will run, who will review results, what will change, and how families will hear back.
+Ask: **“Do you plan to administer the AI Innovation Index Family Pulse surveys during their fall and spring windows?”**
+
+- If yes, ask how the team will use the results to understand family perceptions, questions, confidence, and priorities, and how it will close the loop with families.
+- If no, offer a brief, neutral reminder that the surveys can provide structured family feedback during those windows, then continue. Do not pressure the team or make this an AI Innovation Index sales conversation.
 
 ## 4. Close the feedback loop
 
-For staff and families, ask:
+For any staff or family feedback process the team chooses to use, ask:
 
 1. What are we trying to learn?
 2. Who will review and interpret the findings?
@@ -102,9 +112,9 @@ Produce a polished **AI Communication Plan** using this structure:
 
 1. North Star AI vision
 2. Student AI-fluency promise
-3. Faculty communication plan
-4. Family communication plan
-5. Staff and family listening plans, including both AI Innovation Index Pulse surveys
+3. Faculty investment and communication plan
+4. Family investment and communication plan
+5. Staff and family listening plans, if the team plans to use them
 6. Priority action plan with owners and timing
 7. Key decisions, open questions, and the next review date
 
