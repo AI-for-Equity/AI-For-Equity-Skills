@@ -40,6 +40,14 @@ The skill emphasizes evidence-based interpretation, flexible instructional group
 
 [View the Student Work Analysis skill](skills/student-work-analysis/SKILL.md)
 
+### AI Communication Plan
+
+Build a proactive, mission-aligned AI communication plan for a school system. The skill helps leaders articulate a clear North Star for AI; map faculty and family communication channels; use the AI Innovation Index Staff and Family Pulse surveys to listen and respond; and turn the conversation into a practical, PDF-ready plan.
+
+The skill emphasizes clear student-centered messaging, responsible AI practice, two-way communication, and small, repeatable additions to the channels schools already use.
+
+[View the AI Communication Plan skill](skills/ai-communication-plan/SKILL.md)
+
 ## About
 
 This is a public library maintained by AI for Equity. Skills may be adapted, improved, and expanded over time as we learn from educators and school systems using them.
