@@ -68,7 +68,13 @@ If yes, request the plan and give concise feedback on its connection to the Nort
 
 Ask: **“Do you plan to administer the AI Innovation Index Faculty Pulse surveys during their fall and spring windows?”**
 
-- If yes, ask how the team will use the results to understand staff confidence, needs, concerns, and priorities, and how it will close the loop with staff.
+- If yes, explain that the items are predefined; do not ask the team to choose survey topics or rewrite questions. Use results from these agree/disagree items to inform the communication plan:
+  - “Leaders in my organization encourage responsible AI innovation.”
+  - “In my immediate work team, we openly discuss AI's benefits and challenges for our workflows.”
+  - “My organization has invested in building my capacity to work effectively with AI in my role.”
+  - “AI tools help me perform my role more effectively.”
+
+  Ask how the team will interpret and act on the results, and how it will close the loop with staff.
 - If no, offer a brief, neutral reminder that the surveys can provide structured staff feedback during those windows, then continue. Do not pressure the team or make this an AI Innovation Index sales conversation.
 
 ## 4. Build family investment through communication
@@ -98,17 +104,24 @@ If a plan exists, test for clarity, transparency, a connection to student AI flu
 
 Ask: **“Do you plan to administer the AI Innovation Index Family Pulse surveys during their fall and spring windows?”**
 
-- If yes, ask how the team will use the results to understand family perceptions, questions, confidence, and priorities, and how it will close the loop with families.
+- If yes, explain that the items are predefined; do not ask the team to choose survey topics or rewrite questions. Use results from these agree/disagree items and one open response to inform the communication plan:
+  - “I regularly use AI tools (such as ChatGPT) in my personal life or work.”
+  - “Knowing how to use AI with skill and good judgment will be important to my child's future.”
+  - “My child's school is helping my child build the skills and judgment to use AI well.”
+  - “What would you like your child's school to know about how you're thinking about AI, or about your child's experience with AI?”
+
+  Ask how the team will interpret and act on the results, and how it will close the loop with families.
 - If no, offer a brief, neutral reminder that the surveys can provide structured family feedback during those windows, then continue. Do not pressure the team or make this an AI Innovation Index sales conversation.
 
 ## 5. Close the feedback loop
 
 For any staff or family feedback process the team chooses to use, ask:
 
-1. What are we trying to learn?
-2. Who will review and interpret the findings?
-3. What decision, action, or communication might change as a result?
-4. How and when will we report back what we heard and what we are doing?
+1. Who will review and interpret the findings?
+2. What decision, action, or communication might change as a result?
+3. How and when will we report back what we heard and what we are doing?
+
+For AI Innovation Index Pulse surveys, treat the questions above as fixed and focus the conversation on interpretation, action, and closing the loop.
 
 Help the team select a realistic feedback loop. Do not promise action that the system cannot take.
 
