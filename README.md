@@ -40,6 +40,14 @@ The skill emphasizes evidence-based interpretation, flexible instructional group
 
 [View the Student Work Analysis skill](skills/student-work-analysis/SKILL.md)
 
+### AI Workflow Opportunity Finder
+
+Identify recurring workflows that are good candidates for AI collaboration, automation, or agents. The skill scores each workflow for value, teachability, ease of review, stakes, and the importance of human involvement—then recommends whether to keep it human-led, use AI collaboratively, or pursue a more independent workflow.
+
+It also interviews users about their available AI access, from ChatGPT, Claude, or Gemini to coding harnesses such as Codex and Claude Code, and helps them build a ready-to-use Skill, configured assistant, reusable prompt, or implementation plan.
+
+[View the AI Workflow Opportunity Finder skill](skills/ai-workflow-opportunity-finder/SKILL.md)
+
 ### AI Communication Plan
 
 Build a proactive, mission-aligned AI communication plan for a school system. The skill helps leaders articulate a clear North Star for AI; map faculty and family communication channels; use the AI Innovation Index Staff and Family Pulse surveys to listen and respond; and turn the conversation into a practical, PDF-ready plan.
