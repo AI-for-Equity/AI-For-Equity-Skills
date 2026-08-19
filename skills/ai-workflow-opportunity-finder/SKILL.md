@@ -7,13 +7,23 @@ description: Identify, score, and scope practical AI workflow improvements. Use 
 
 ## Purpose
 
-Help a professional turn a real work problem into a right-sized AI build. First identify workflows where AI can add meaningful value. Then learn the person's available AI environment and recommend an approach that fits their access, skill level, data constraints, and appetite for maintenance.
+Facilitate a focused working conversation that turns a real work problem into a right-sized AI build. First help the person identify workflows where AI can add meaningful value. Then learn their available AI environment and recommend an approach that fits their access, skill level, data constraints, and appetite for maintenance.
 
-Do not treat every repetitive task as an automation opportunity. A useful outcome may be a reusable prompt or a clarified manual process.
+## Facilitation rules
+
+- Begin immediately with Step 1. This applies whether these instructions were installed as a skill or pasted directly into a conversation; if pasted, the person who pasted them is the user.
+- Ask one or two decision-oriented questions at a time and wait for answers. Never present all questions at once, and never answer them on the person's behalf.
+- Ask for real context before scoring or recommending. Do not invent workflows, tools, access, or policies.
+- Do not treat every repetitive task as an automation opportunity. A useful outcome may be a reusable prompt or a clarified manual process.
+- Maintain a running record of candidate workflows, scores, and decisions. Synthesize them in Step 5.
 
 ## 1. Inventory recurring workflows
 
-Ask the person to name a recurring task, bottleneck, or decision they would like to improve. If they do not have one, help them inventory work across these categories:
+Ask: **"What's a recurring task, bottleneck, or decision in your work that you'd like to improve?"**
+
+If they name one, move to the context questions below.
+
+If they don't have one in mind, help them inventory their work across these categories:
 
 - Summarizing, extracting, drafting, or transforming information
 - Searching across documents, data, or systems
@@ -21,7 +31,7 @@ Ask the person to name a recurring task, bottleneck, or decision they would like
 - Routing, triaging, checking, or monitoring work
 - Repeating a judgment process with clear inputs and review criteria
 
-For each candidate, ask only for the context needed to score it:
+For each candidate, ask only for the context needed to score it, one or two questions at a time:
 
 1. What triggers the work, and how often does it happen?
 2. What are the inputs and expected output?
@@ -30,7 +40,7 @@ For each candidate, ask only for the context needed to score it:
 
 ## 2. Score agent and automation fit
 
-Score each workflow from 0 to 2 on each dimension. Explain the score briefly; do not treat the total as a substitute for judgment.
+Score each workflow from 0 to 2 on each dimension. Explain each score briefly and ask whether it matches the person's experience; adjust before totaling. Do not treat the total as a substitute for judgment.
 
 | Dimension | 0 | 1 | 2 |
 |---|---|---|---|
@@ -44,7 +54,7 @@ Add the five scores for a total out of 10.
 
 | Total | Recommendation |
 |---|---|
-| **7–10** | Strong candidate for an agent, automation, or other more independent AI workflow—subject to access, policy, and a small pilot. |
+| **7–10** | Strong candidate for an agent, automation, or other more independent AI workflow, subject to access, policy, and a small pilot. |
 | **4–6** | Best suited to human-and-AI collaboration. Keep a person actively involved while using AI for preparation, drafting, analysis, or routine substeps. |
 | **0–3** | Keep the work primarily human-led. AI may still help in a narrow supporting role, but do not prioritize offloading it. |
 
@@ -52,13 +62,13 @@ Flag caution when a score hides a non-negotiable constraint, such as sensitive d
 
 ## 3. Map available AI access
 
-Interview the person about their actual AI environment. Ask which description best matches it:
+Ask: **"Which of these best describes the AI tools you can use at work?"**
 
-1. **Coding harness:** They can use a tool such as Claude Code or Codex, with access to files, code, and possibly tools or integrations. Clarify that this does **not** mean they need to write code themselves: they can describe the task in plain language and let the harness create or run code when appropriate.
-2. **Chatbot:** They mainly use ChatGPT, Claude, or Gemini in a chat interface. Ask which one.
+1. **Coding harness:** A tool such as Claude Code or Codex, with access to files, code, and possibly tools or integrations. Clarify that this does **not** mean they need to write code themselves: they can describe the task in plain language and let the harness create or run code when appropriate.
+2. **Chatbot:** Mainly ChatGPT, Claude, or Gemini in a chat interface. Ask which one.
 3. **Both or another environment:** Ask what the environment can access and whether it can save reusable instructions, work with files, run code, or connect to other systems.
 
-For any environment, confirm whether the person can work with files, save reusable instructions or a configured assistant (for example, a Gem), create or upload a `SKILL.md` skill, use approved connectors, or run code. ChatGPT and Claude may support creating or uploading reusable Skills outside a coding harness, subject to the person's plan and workspace permissions. Do not assume that a product tier, organization, or account has a particular feature.
+For whichever environment they name, confirm whether they can work with files, save reusable instructions or a configured assistant (for example, a Gem or a custom GPT), create or upload a `SKILL.md` skill, use approved connectors, or run code. ChatGPT and Claude may support creating or uploading reusable Skills outside a coding harness, subject to the person's plan and workspace permissions. Do not assume that a product tier, organization, or account has a particular feature; ask.
 
 Also ask whether organizational policy permits the relevant data and tools to be used. Do not ask them to share sensitive data.
 
@@ -79,7 +89,7 @@ Explain why the recommendation matches the person's environment. Do not recommen
 
 ## 5. Scope and build the first version
 
-For the selected opportunity, define a minimum useful version:
+For the selected opportunity, define a minimum useful version together, asking for anything not already established in the conversation:
 
 - User and use case
 - Trigger and inputs
@@ -90,13 +100,15 @@ For the selected opportunity, define a minimum useful version:
 - Success measure
 - First test using a safe, representative example
 
-After agreeing on the scope, ask whether the person wants to build the first version now. If yes, create the complete, ready-to-use artifact that fits their environment—not merely an outline.
+After agreeing on the scope, ask: **"Do you want to build the first version now?"**
+
+If yes, create the complete, ready-to-use artifact that fits their environment, not merely an outline:
 
 - **Markdown Skill:** Produce a finished `SKILL.md` with frontmatter, workflow, inputs, outputs, guardrails, and an example prompt. Include setup and upload instructions appropriate to the person's environment.
-- **Configured assistant or Gem:** Produce complete, copy-ready instructions, a name, a description, and three conversation starters. Include any recommended knowledge files or settings, but do not claim a feature exists unless the person has confirmed it.
+- **Configured assistant, Gem, or custom GPT:** Produce complete, copy-ready instructions, a name, a description, and three conversation starters. Include any recommended knowledge files or settings, but do not claim a feature exists unless the person has confirmed it.
 - **Reusable prompt:** Produce a complete, copy-ready prompt with input placeholders, workflow instructions, output format, and a test example.
 - **Coding-harness implementation:** Produce a concise build plan, then build the first safe version when the environment and user authorize it. Include a human review step and a representative test.
 
-If the person does not want to build immediately, provide the scoped build brief and the single next action needed to continue. Keep the recommendation proportional to the expected value and the person's available access.
+If they do not want to build immediately, provide the scoped build brief and the single next action needed to continue.
 
 End with a concrete next action that can be completed in one working session. Keep the recommendation proportional to the expected value and the person's available access.
