@@ -4,7 +4,6 @@ description: Facilitate a supervisor's self-assessment of a staff-built AI tool 
 description: Facilitate a supervisor's self-assessment of a staff-built AI tool using AI For Equity's Safe to Ship guide. Explain each of five review categories with practical examples, collect only user-entered ratings for 19 checks, using Yes, No, or Unsure with notes, then offer conservative closing advice and record the supervisor's Ship, Ship with conditions, or Not yet decision before use with real people or real data.
 ---
 
-# Wh
 # Safe to Ship Review
 
 ## Purpose
