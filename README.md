@@ -56,6 +56,15 @@ The skill emphasizes clear student-centered messaging, responsible AI practice, 
 
 [View the AI Communication Plan skill](skills/ai-communication-plan/SKILL.md)
 
+### Safe to Ship Review
+
+Review a staff-built AI tool before it runs on real people or real data. The skill walks supervisors through the Safe to Ship guide's five sections and 19 checks: assess potential harm, check the specification and safeguards, review test evidence, inspect logs, and question the builder.
+
+It produces a documented recommendation to Ship, Ship with conditions, or Not yet, while keeping the supervisor responsible for the approval decision.
+
+[View the Safe to Ship Review skill](skills/safe-to-ship-review/SKILL.md)
+
+
 ## About
 
 This is a public library maintained by AI for Equity. Skills may be adapted, improved, and expanded over time as we learn from educators and school systems using them.
